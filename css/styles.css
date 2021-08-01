@@ -2932,6 +2932,11 @@ input::-moz-focus-inner {
     margin-top: 0;
 }
 
+a.link-display-1:link
+{
+    color: black;
+}
+
 .item-title {
     font-family: var(--font-2);
     font-weight: 500;
