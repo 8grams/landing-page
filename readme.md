@@ -1,1 +1,1 @@
-# Source code for 8grams.dev
+# Landing Page of 8grams.dev
